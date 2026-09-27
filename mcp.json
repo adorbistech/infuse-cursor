@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "infuse": {
+      "url": "https://infuse-api.adorbistech.com/mcp"
+    }
+  }
+}
